@@ -1,0 +1,28 @@
+D:\project\Mean_Mode_Median\bin\Debug\net8.0-windows\Mean_Mode_Median.exe
+D:\project\Mean_Mode_Median\bin\Debug\net8.0-windows\Mean_Mode_Median.deps.json
+D:\project\Mean_Mode_Median\bin\Debug\net8.0-windows\Mean_Mode_Median.runtimeconfig.json
+D:\project\Mean_Mode_Median\bin\Debug\net8.0-windows\Mean_Mode_Median.dll
+D:\project\Mean_Mode_Median\bin\Debug\net8.0-windows\Mean_Mode_Median.pdb
+D:\project\Mean_Mode_Median\obj\Debug\net8.0-windows\Mean_Mode_Median.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Mean_Mode_Median\obj\Debug\net8.0-windows\Mean_Mode_Median.AssemblyInfoInputs.cache
+D:\project\Mean_Mode_Median\obj\Debug\net8.0-windows\Mean_Mode_Median.AssemblyInfo.cs
+D:\project\Mean_Mode_Median\obj\Debug\net8.0-windows\Mean_Mode_Median.csproj.CoreCompileInputs.cache
+D:\project\Mean_Mode_Median\obj\Debug\net8.0-windows\Mean_Mode_Median.dll
+D:\project\Mean_Mode_Median\obj\Debug\net8.0-windows\refint\Mean_Mode_Median.dll
+D:\project\Mean_Mode_Median\obj\Debug\net8.0-windows\Mean_Mode_Median.pdb
+D:\project\Mean_Mode_Median\obj\Debug\net8.0-windows\Mean_Mode_Median.genruntimeconfig.cache
+D:\project\Mean_Mode_Median\obj\Debug\net8.0-windows\ref\Mean_Mode_Median.dll
+D:\My Project\Mean_Mode_Median\bin\Debug\net8.0-windows\Mean_Mode_Median.exe
+D:\My Project\Mean_Mode_Median\bin\Debug\net8.0-windows\Mean_Mode_Median.deps.json
+D:\My Project\Mean_Mode_Median\bin\Debug\net8.0-windows\Mean_Mode_Median.runtimeconfig.json
+D:\My Project\Mean_Mode_Median\bin\Debug\net8.0-windows\Mean_Mode_Median.dll
+D:\My Project\Mean_Mode_Median\bin\Debug\net8.0-windows\Mean_Mode_Median.pdb
+D:\My Project\Mean_Mode_Median\obj\Debug\net8.0-windows\Mean_Mode_Median.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\Mean_Mode_Median\obj\Debug\net8.0-windows\Mean_Mode_Median.AssemblyInfoInputs.cache
+D:\My Project\Mean_Mode_Median\obj\Debug\net8.0-windows\Mean_Mode_Median.AssemblyInfo.cs
+D:\My Project\Mean_Mode_Median\obj\Debug\net8.0-windows\Mean_Mode_Median.csproj.CoreCompileInputs.cache
+D:\My Project\Mean_Mode_Median\obj\Debug\net8.0-windows\Mean_Mode_Median.dll
+D:\My Project\Mean_Mode_Median\obj\Debug\net8.0-windows\refint\Mean_Mode_Median.dll
+D:\My Project\Mean_Mode_Median\obj\Debug\net8.0-windows\Mean_Mode_Median.pdb
+D:\My Project\Mean_Mode_Median\obj\Debug\net8.0-windows\Mean_Mode_Median.genruntimeconfig.cache
+D:\My Project\Mean_Mode_Median\obj\Debug\net8.0-windows\ref\Mean_Mode_Median.dll

@@ -1,0 +1,130 @@
+namespace Mean_Mode_MedianFinder;
+
+public partial class Form1 : Form
+{
+        private TextBox? inputTextBox;
+
+        private Button? meanButton;
+        private Button? medianButton;
+        private Button? modeButton;
+        private Label? resultLabel;
+    public Form1()
+    {
+        InitializeComponent();
+        // InitializeCalculator();
+    }
+
+//     private void InitializeCalculator()
+//         {
+//             // Input TextBox
+//             inputTextBox = new TextBox
+//             {
+//                 Width = 200,
+//                 Location = new System.Drawing.Point(10, 10),
+//                 PlaceholderText = "Enter numbers separated by commas"
+//             };
+//             this.Controls.Add(inputTextBox);
+
+//             // Mean Button
+//             meanButton = new Button
+//             {
+//                 Text = "Mean",
+//                 Location = new System.Drawing.Point(10, 50)
+//             };
+//             meanButton.Click += (s, e) => CalculateStatistic("mean");
+//             this.Controls.Add(meanButton);
+
+//             // Median Button
+//             medianButton = new Button
+//             {
+//                 Text = "Median",
+//                 Location = new System.Drawing.Point(120, 50)
+//             };
+//             medianButton.Click += (s, e) => CalculateStatistic("median");
+//             this.Controls.Add(medianButton);
+
+//             // Mode Button
+//             modeButton = new Button
+//             {
+//                 Text = "Mode",
+//                 Location = new System.Drawing.Point(230, 50)
+//             };
+//             modeButton.Click += (s, e) => CalculateStatistic("mode");
+//             this.Controls.Add(modeButton);
+
+//             // Result Label
+//             resultLabel = new Label
+//             {
+//                 AutoSize = true,
+//                 Location = new System.Drawing.Point(10, 90),
+//                 Text = "Result: "
+//             };
+//             this.Controls.Add(resultLabel);
+//         }
+//          private void CalculateStatistic(string type)
+// {
+//     try
+//     {
+//         // Check if inputTextBox.Text is not null or empty
+//         if (string.IsNullOrWhiteSpace(inputTextBox.Text))
+//         {
+//             MessageBox.Show("Please enter numbers separated by commas.", "Input Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+//             return;
+//         }
+
+//         List<double> values = inputTextBox.Text.Split(',')
+//                                    .Select(v => double.Parse(v.Trim()))
+//                                    .ToList();
+
+//         double result = 0;
+//         List<double> modeResult = new List<double>();
+
+//         switch (type)
+//         {
+//             case "mean":
+//                 result = CalculateMean(values);
+//                 resultLabel.Text = $"Mean: {result}";
+//                 break;
+
+//             case "median":
+//                 result = CalculateMedian(values);
+//                 resultLabel.Text = $"Median: {result}";
+//                 break;
+
+//             case "mode":
+//                 modeResult = CalculateMode(values);
+//                 resultLabel.Text = $"Mode: {string.Join(", ", modeResult)}";
+//                 break;
+//         }
+//     }
+//     catch (Exception ex)
+//     {
+//         MessageBox.Show("Invalid input. Please enter numbers separated by commas.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+//     }
+// }
+
+        
+//           private double CalculateMean(List<double> values)
+//         {
+//             double sum = values.Sum();
+//             return sum / values.Count;
+//         }
+//          private double CalculateMedian(List<double> values)
+//         {
+//             values.Sort();
+//             int count = values.Count;
+//             if (count % 2 == 1)
+//                 return values[count / 2];
+//             else
+//                 return (values[(count / 2) - 1] + values[count / 2]) / 2.0;
+//         }
+//         private List<double> CalculateMode(List<double> values)
+//         {
+//             var frequencyDict = values.GroupBy(v => v)
+//                                       .ToDictionary(g => g.Key, g => g.Count());
+//             int maxFrequency = frequencyDict.Values.Max();
+//             return frequencyDict.Where(pair => pair.Value == maxFrequency)
+//                                 .Select(pair => pair.Key)
+//                                 .ToList();
+//         }
+}

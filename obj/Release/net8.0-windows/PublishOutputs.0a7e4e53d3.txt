@@ -1,0 +1,5 @@
+D:\project\Mean_Mode_Median\publish\Mean_Mode_Median.exe
+D:\project\Mean_Mode_Median\publish\Mean_Mode_Median.dll
+D:\project\Mean_Mode_Median\publish\Mean_Mode_Median.deps.json
+D:\project\Mean_Mode_Median\publish\Mean_Mode_Median.runtimeconfig.json
+D:\project\Mean_Mode_Median\publish\Mean_Mode_Median.pdb
